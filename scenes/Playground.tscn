@@ -34,9 +34,6 @@ __meta__ = {
 [node name="MeshInstance" parent="Ground" index="0"]
 mesh = SubResource( 8 )
 
-[node name="Camera" type="Camera" parent="."]
-transform = Transform( -0.999297, 0.0157781, -0.0339943, 0, 0.90706, 0.421002, 0.0374774, 0.420706, -0.906422, -10.3232, 7.58478, -13.3771 )
-
 [node name="DirectionalLight" type="DirectionalLight" parent="."]
 transform = Transform( 0.772073, 0.00241222, -0.635529, 0.635396, -0.0237516, 0.771821, -0.013233, -0.999715, -0.0198707, -11.0414, 22.5495, -0.307257 )
 light_energy = 0.2
